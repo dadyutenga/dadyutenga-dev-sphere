@@ -45,7 +45,7 @@ const Contact = () => {
   const contactMethods = [
     {
       name: "Email",
-      value: "dadyutenga@example.com",
+      value: "dadyutenga@yahoo.com",
       icon: <Mail className="w-5 h-5" />,
       href: "mailto:dadyutenga@example.com",
       description: "Best way to reach me"

@@ -66,7 +66,12 @@ const Hero = () => {
                 <Mail className="w-5 h-5 mr-2" />
                 Get In Touch
               </Button>
-              <Button variant="outline" size="lg" className="border-primary text-primary hover:bg-primary hover:text-primary-foreground">
+              <Button 
+                variant="outline" 
+                size="lg" 
+                className="border-primary text-primary hover:bg-primary hover:text-primary-foreground"
+                onClick={() => window.open('https://github.com/dadyutenga', '_blank')}
+              >
                 <Github className="w-5 h-5 mr-2" />
                 View Projects
               </Button>

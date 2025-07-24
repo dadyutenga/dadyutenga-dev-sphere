@@ -122,7 +122,7 @@ const Footer = () => {
             <div className="flex items-center gap-6 text-sm text-secondary-foreground/60">
               <span>Made with React + TypeScript</span>
               <span>•</span>
-              <span>Hosted on Lovable</span>
+              <span>Hosted on PrivateVPS</span>
             </div>
           </div>
 
